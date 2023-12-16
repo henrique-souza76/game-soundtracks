@@ -1,2 +1,3 @@
 # game-soundtracks
-Playlist com trilhas sonoras de jogos.
+
+PWA que exibe trilhas sonoras de jogos.
